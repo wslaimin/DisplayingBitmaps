@@ -1,4 +1,6 @@
 
+====
+ImageFetcher有修改過，去掉原來初始化DiskLruCache部分
 Android DisplayingBitmaps Sample
 ===================================
 
